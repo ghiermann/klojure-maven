@@ -1,4 +1,4 @@
-package at.nuwings.klojure
+package klojure
 
 import klojure.Core
 
